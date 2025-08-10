@@ -8,7 +8,7 @@ export default function Home() {
         <Image
           className="dark:invert"
           src="/rekalpa.png"
-          alt="Next.js logo"
+          alt="Next.js logeo"
           width={180}
           height={38}
           priority
