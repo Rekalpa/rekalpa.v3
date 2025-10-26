@@ -13,7 +13,7 @@ export default function Home() {
           height={38}
           priority
         />
-        <p>Property search made simple. Now you can search, just like you <i>talk!</i></p>
+        <p></p>
 
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
